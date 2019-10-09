@@ -36,7 +36,7 @@ calendar_heatmap_discrete_beta(dates, values) +
     subtitle = "En opdigtet situation",
     caption = "Kilde: perdalum")
 ```
-![discrete-heatmap.png]
+![Discrete Heatmap](discrete-heatmap.png)
 
 ## calendar-heatmap-continuous
 
@@ -64,4 +64,4 @@ calendar_heatmap_continuous_beta(dates, values) +
     subtitle = "Regnmængde",
     caption = "Kilde: perdalum")
 ```
-![continuous-heatmap.png]
+![Continuous Heatmap](continuous-heatmap.png)
